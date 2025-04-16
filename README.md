@@ -6,7 +6,7 @@ I am passionate about **Data Science** and love exploring data to find insights,
 I am currently attending the Data Science and AI Bootcamp at Le Wagon Amsterdam, where I am refining my skills in machine learning, deep learning, NLP, and data engineering.
 
 ## 🔬 My Technical Skills
-- **Programming Languages:** Python, SQL, MATLAB, Fortran, ReactJS, VueJS, JavaScript, CSS
+- **Programming Languages:** Python, SQL, ReactJS, VueJS, JavaScript, CSS
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Deep Learning:** Neural Networks, LSTMs, CNNs, Transformers
