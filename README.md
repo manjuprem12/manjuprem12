@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I’m a Frontend & Full-Stack Developer who enjoys building clean, responsive, and interactive web applications, with a strong focus on React and Vue. I care deeply about user experience, component-driven architecture, and writing maintainable, scalable code across the stack.
+I am a Frontend & Full-Stack Developer who enjoys building clean, responsive, and interactive web applications, with a strong focus on React and Vue. I care deeply about user experience, component-driven architecture, and writing maintainable, scalable code across the stack.
 
 I enjoy turning complex requirements into intuitive interfaces and building reliable backend services that support them, creating end-to-end solutions that feel smooth and thoughtful.
 
