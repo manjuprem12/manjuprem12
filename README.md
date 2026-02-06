@@ -2,13 +2,13 @@
 
 
 ## 🚀 About Me
-I am a Frontend & Full-Stack Developer who enjoys building clean, responsive, and interactive web applications, with a strong focus on React and Vue. I care deeply about user experience, component-driven architecture, and writing maintainable, scalable code across the stack.
+I am a **Frontend & Full-Stack Developer** who enjoys building clean, responsive, and interactive web applications, with a strong focus on React and Vue. I care deeply about user experience, component-driven architecture, and writing maintainable, scalable code across the stack.
 
 I enjoy turning complex requirements into intuitive interfaces and building reliable backend services that support them, creating end-to-end solutions that feel smooth and thoughtful.
 
-Alongside full-stack development, I have a solid foundation in Data Science & AI, with hands-on experience in data analysis, machine learning, deep learning, NLP, and data engineering. I like using data to uncover insights and add intelligent features to applications.
+Alongside full-stack development, I have a solid foundation in **Data Science & AI**, with hands-on experience in data analysis, machine learning, deep learning, NLP, and data engineering. I like using data to uncover insights and add intelligent features to applications.
 
-I enjoy working at the intersection of full-stack development and data, building products that are both user-friendly and insight-driven 🚀
+I enjoy working at the intersection of **full-stack development and data**, building products that are both user-friendly and insight-driven 🚀
 
 ## 🔬 My Technical Skills
 - **Programming Languages:** Python, SQL, ReactJS, VueJS, JavaScript, CSS
